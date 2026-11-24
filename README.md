@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/masvoorii">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Fachri!+%F0%9F%91%8B;Electrical+Engineering+Undergrad+%40+UNSRI;Control%2C+Automation+%26+Embedded+Enthusiast;Full-Stack+Web+%26+IoT+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Fachri!+%F0%9F%91%8B;Electrical+Engineering+Undergrad+%40+UNSRI;Control%2C+Automation+%26+Embedded+Enthusiast;Web+%26+IoT+Builder" alt="Typing SVG" />
 </a>
 
 **Control & Computer Engineering Student • PLC Lab Assistant • Web & Embedded Systems Developer**
@@ -16,17 +16,18 @@
 
 ### 👨‍💻 About Me
 
-I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate at **Universitas Sriwijaya (UNSRI)** specializing in **Control & Computer Engineering**. My passion lies at the intersection of hardware and software—designing microcontroller prototypes, configuring industrial PLC workflows, and building clean web platforms.
+I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate at **Universitas Sriwijaya (UNSRI)** specializing in **Control & Computer Engineering**. My passion lies at the intersection of hardware and software—designing microcontroller prototypes, configuring industrial PLC workflows, and building practical web platforms.
 
-- 🔭 **Currently working on:** Embedded IoT prototypes (ESP32 & sensor arrays), PLC automation lab modules, and web-based catalog systems.
-- 🌱 **Currently learning:** Advanced control systems, computer vision applications, and scalable backend architectures.
+- 🔭 **Currently working on:** Embedded microcontroller prototypes, PLC lab modules, and web-based catalog systems.
+- 🌱 **Currently learning:** Getting started with **ROS 2 (Robot Operating System 2)** for my Robotics coursework, alongside deepening my fundamentals in control systems and computer vision.
 - 🧑‍🏫 **Academic & Teaching Roles:**
   - **Laboratory Assistant** — Programmable Logic Controllers (PLC) Lab, UNSRI
   - **Teaching Assistant** — Basic Computer Programming (*Dasar Komputer & Pemrograman*) & Basic Information Systems (*Dasar Sistem Informasi*)
   - **Guest Instructor** — Taught 10th-grade *Coding & Artificial Intelligence (KKA)* as an alumnus mentor
-- 🏆 **Achievements & Certifications:**
+- 🏆 **Achievements & Publications:**
+  - **1st Place Winner** — Universal Competition of Mandupa (MAN 2 Palembang, October 2023)
+  - **2nd Place Winner** — Line Follower Robot Competition, Sumatera Robotic Competition by Indonesia Youth Robot Association (March 2023)
   - **Presenter & Author** — 18th AVoER National Seminar (Universitas Sriwijaya)
-  - **Completer** — Kumon Mathematics & English as a Foreign Language (EFL) Programs
 
 ---
 
@@ -55,7 +56,6 @@ I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -69,16 +69,19 @@ I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate
 | **Solar Energy Utilization for Water Tourism** | Peer-reviewed research paper (*ID 3584*) presented at the 18th AVoER National Seminar on implementing solar PV systems in Tanjung Pinang II Village, Ogan Ilir. | `Solar PV` • `Renewable Energy` • `System Design` |
 | **Interactive Hand-Tracking Filter** | Real-time computer vision gesture filter tailored for left-handed dominant tracking and low-latency camera feedback. | `Python` • `Computer Vision` • `Hand Tracking` |
 | **ESP32 Sensor & Automation Prototypes** | Collection of microcontroller experiments integrating ultrasonic distance sensors (`HC-SR04`), circuit simulations, and control logic. | `ESP32` • `C++` • `Wokwi` • `Sensors` |
+| **Line Follower Robot Systems** | Competition-grade autonomous line-following robots utilizing infrared sensor arrays and PID-based motor control logic. | `Microcontrollers` • `C++` • `IR Sensors` • `Control Logic` |
+| **Custom Web Hosting & Domain Deployment** | Self-managed web hosting infrastructure, DNS routing, and full-stack web deployment (`jobsecret.my.id`). | `PHP` • `Laravel` • `MySQL` • `cPanel/DNS` |
 
 ---
 
 ### 🏛️ Leadership & Organizational Experience
 
-- **Student Executive Board of Universitas Sriwijaya (BEM UNSRI)** — *Expert Staff (Staf Ahli), Creative Economy Bureau*
-- **Student Executive Board of Faculty of Engineering (BEM FT UNSRI)** — *Executive Board Member (Badan Pengurus), Academic & Professionalism Department*
-- **Electrical Engineering Student Association (HME UNSRI)** — *Expert Staff (Staf Ahli), Institutional Relations Department*
-- **PKKMB FT & Electrical Engineering UNSRI** — *Student Coordinator & Group Mentor (Kakak Gugus)* for freshman orientation
-- **High School Robotics Club** — *President (Ketua Umum)*, leading microcontroller workshops and robotics competitions
+- **Student Executive Board of Universitas Sriwijaya (BEM UNSRI)** — *Expert Staff (Staf Ahli), Creative Economy Bureau* (2026/2027)
+- **Student Executive Board of Faculty of Engineering (BEM FT UNSRI)** — *Executive Board Member / Expert Staff (Badan Pengurus), Academic & Professionalism Department* (2026/2027); previously *Junior Staff (Staf Muda)* in the same department (2025/2026)
+- **Electrical Engineering Student Association (HME UNSRI)** — *Expert Staff (Staf Ahli), Institutional Relations Department* (2026/2027); previously *Junior Staff (Staf Muda)* in the same department (2025/2026)
+- **PKKMB FT UNSRI (Faculty Freshman Orientation)** — *Person in Charge (PJ) of IT & Operations* (2025 & 2026)
+- **PKKMB Teknik Elektro UNSRI (Department Freshman Orientation)** — *Person in Charge (PJ) of IT & Operations* (2026); previously *Public Relations & IT/Operations Staff* (2025)
+- **High School Robotics Club** — *President (Ketua Umum)*, leading microcontroller workshops and line-follower robotics competitions
 
 ---
 
@@ -95,4 +98,4 @@ I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate
 
 - 🎮 **Entrepreneur on the Side:** Founder & operator of *Nathan Game Palembang*, managing multi-terabyte game libraries and console setups alongside engineering coursework.
 - ✍️ **Left-Handed Maker:** Southpaw engineer who loves optimizing hardware enclosures, multi-drive storage setups, and clean desk workflows.
-- 🤖 **Robotics Roots:** Started tinkering with sensors and logic gates in high school before diving deep into industrial PLCs and control systems.
+- 🤖 **Robotics Roots:** Started building autonomous line-follower robots in high school before diving into industrial PLCs, control systems, and ROS 2.
