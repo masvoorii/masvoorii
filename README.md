@@ -25,7 +25,7 @@ I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate
   - **Teaching Assistant** — Basic Computer Programming (*Dasar Komputer & Pemrograman*) & Basic Information Systems (*Dasar Sistem Informasi*)
   - **Guest Instructor** — Taught 10th-grade *Coding & Artificial Intelligence (KKA)* as an alumnus mentor
 - 🏆 **Achievements & Publications:**
-  - **1st Place Winner** — Line Follower Competition, Universal Competition of Mandupa / UNICOM MANDUPA (MAN 2 Palembang, October 2023)
+  - **1st Place Winner** — Line Follower Robot Competition, Universal Competition of Mandupa / UNICOM MANDUPA (MAN 2 Palembang, October 2023)
   - **2nd Place Winner** — Line Follower Robot Competition, Sumatera Robotic Competition by Indonesia Youth Robot Association (March 2023)
   - **Presenter & Author** — 18th AVoER National Seminar (Universitas Sriwijaya)
 
