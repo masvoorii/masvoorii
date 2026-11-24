@@ -19,13 +19,13 @@
 I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate at **Universitas Sriwijaya (UNSRI)** specializing in **Control & Computer Engineering**. My passion lies at the intersection of hardware and software—designing microcontroller prototypes, configuring industrial PLC workflows, and building practical web platforms.
 
 - 🔭 **Currently working on:** Embedded microcontroller prototypes, PLC lab modules, and web-based catalog systems.
-- 🌱 **Currently learning:** Getting started with **ROS 2 (Robot Operating System 2)** for my Robotics coursework, alongside deepening my fundamentals in control systems and computer vision.
+- 🌱 **Currently learning:** Just getting started with **ROS 2 (Robot Operating System 2)** for my Robotics coursework, alongside strengthening my fundamentals in control systems and computer vision.
 - 🧑‍🏫 **Academic & Teaching Roles:**
   - **Laboratory Assistant** — Programmable Logic Controllers (PLC) Lab, UNSRI
   - **Teaching Assistant** — Basic Computer Programming (*Dasar Komputer & Pemrograman*) & Basic Information Systems (*Dasar Sistem Informasi*)
   - **Guest Instructor** — Taught 10th-grade *Coding & Artificial Intelligence (KKA)* as an alumnus mentor
 - 🏆 **Achievements & Publications:**
-  - **1st Place Winner** — Universal Competition of Mandupa (MAN 2 Palembang, October 2023)
+  - **1st Place Winner** — Line Follower Competition, Universal Competition of Mandupa / UNICOM MANDUPA (MAN 2 Palembang, October 2023)
   - **2nd Place Winner** — Line Follower Robot Competition, Sumatera Robotic Competition by Indonesia Youth Robot Association (March 2023)
   - **Presenter & Author** — 18th AVoER National Seminar (Universitas Sriwijaya)
 
@@ -56,6 +56,7 @@ I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![Custom Web Hosting](https://img.shields.io/badge/Custom_Web_Hosting_&_DNS-0EA5E9?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
@@ -77,7 +78,7 @@ I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate
 ### 🏛️ Leadership & Organizational Experience
 
 - **Student Executive Board of Universitas Sriwijaya (BEM UNSRI)** — *Expert Staff (Staf Ahli), Creative Economy Bureau* (2026/2027)
-- **Student Executive Board of Faculty of Engineering (BEM FT UNSRI)** — *Executive Board Member / Expert Staff (Badan Pengurus), Academic & Professionalism Department* (2026/2027); previously *Junior Staff (Staf Muda)* in the same department (2025/2026)
+- **Student Executive Board of Faculty of Engineering (BEM FT UNSRI)** — *Executive Board Member / Expert Staff (Badan Pengurus / Staf Ahli), Academic & Professionalism Department* (2026/2027); previously *Junior Staff (Staf Muda)* in the same department (2025/2026)
 - **Electrical Engineering Student Association (HME UNSRI)** — *Expert Staff (Staf Ahli), Institutional Relations Department* (2026/2027); previously *Junior Staff (Staf Muda)* in the same department (2025/2026)
 - **PKKMB FT UNSRI (Faculty Freshman Orientation)** — *Person in Charge (PJ) of IT & Operations* (2025 & 2026)
 - **PKKMB Teknik Elektro UNSRI (Department Freshman Orientation)** — *Person in Charge (PJ) of IT & Operations* (2026); previously *Public Relations & IT/Operations Staff* (2025)
@@ -85,17 +86,8 @@ I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=masvoorii&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="masvoorii's GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masvoorii&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
-</div>
-
----
-
 ### ⚡ Fun Facts & Beyond Code
 
 - 🎮 **Entrepreneur on the Side:** Founder & operator of *Nathan Game Palembang*, managing multi-terabyte game libraries and console setups alongside engineering coursework.
-- ✍️ **Left-Handed Maker:** Southpaw engineer who loves optimizing hardware enclosures, multi-drive storage setups, and clean desk workflows.
+- ✍️ **Left-Handed Maker:** Southpaw engineer who enjoys optimizing hardware enclosures, multi-drive storage setups, and clean desk workflows.
 - 🤖 **Robotics Roots:** Started building autonomous line-follower robots in high school before diving into industrial PLCs, control systems, and ROS 2.
