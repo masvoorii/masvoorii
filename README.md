@@ -1,55 +1,98 @@
-# Hi there, I'm Fachri! 👋
+<div align="center">
 
-I'm an **Electrical Engineering undergraduate** at **Universitas Sriwijaya (UNSRI)**, specializing in **Control & Computer Engineering**. I enjoy bridging the gap between hardware and software—building embedded systems, industrial automation workflows, and practical web applications.
+<!-- Animated Typing Header -->
+<a href="https://github.com/masvoorii">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Fachri!+%F0%9F%91%8B;Electrical+Engineering+Undergrad+%40+UNSRI;Control%2C+Automation+%26+Embedded+Enthusiast;Full-Stack+Web+%26+IoT+Builder" alt="Typing SVG" />
+</a>
 
-- 🔭 **Currently working on:** Embedded microcontroller prototypes, PLC lab modules, and web platforms.
-- 🌱 **Currently learning:** Advanced control systems, industrial automation, and computer vision applications.
-- 🧑‍🏫 **Academic Roles:** Laboratory Assistant for Programmable Logic Controllers (PLC) & Teaching Assistant for Basic Computer Programming and Information Systems.
-- 💡 **Interests:** Robotics, IoT, Industrial Automation, and Retro/Console Gaming.
+**Control & Computer Engineering Student • PLC Lab Assistant • Web & Embedded Systems Developer**
+
+[![Email](https://img.shields.io/badge/Email-fachrips2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fachrips2007@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40fahrifran-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fahrifran)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 👨‍💻 About Me
 
-**Embedded Systems, Hardware & Automation**
+I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate at **Universitas Sriwijaya (UNSRI)** specializing in **Control & Computer Engineering**. My passion lies at the intersection of hardware and software—designing microcontroller prototypes, configuring industrial PLC workflows, and building clean web platforms.
+
+- 🔭 **Currently working on:** Embedded IoT prototypes (ESP32 & sensor arrays), PLC automation lab modules, and web-based catalog systems.
+- 🌱 **Currently learning:** Advanced control systems, computer vision applications, and scalable backend architectures.
+- 🧑‍🏫 **Academic & Teaching Roles:**
+  - **Laboratory Assistant** — Programmable Logic Controllers (PLC) Lab, UNSRI
+  - **Teaching Assistant** — Basic Computer Programming (*Dasar Komputer & Pemrograman*) & Basic Information Systems (*Dasar Sistem Informasi*)
+  - **Guest Instructor** — Taught 10th-grade *Coding & Artificial Intelligence (KKA)* as an alumnus mentor
+- 🏆 **Achievements & Certifications:**
+  - **Presenter & Author** — 18th AVoER National Seminar (Universitas Sriwijaya)
+  - **Completer** — Kumon Mathematics & English as a Foreign Language (EFL) Programs
+
+---
+
+### 🛠️ Tech Stack & Simulation Tools
+
+<div align="center">
+
+**Embedded Systems, Hardware & Simulation**
+<br>
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![PLC](https://img.shields.io/badge/PLC_Automation-00599C?style=for-the-badge&logo=siemens&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi_Simulator-1E293B?style=for-the-badge&logo=dependabot&logoColor=38BDF8)
 
-**Languages & Web Development**
+**Languages & Web Frameworks**
+<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Databases & Tools**
+**Databases, Hosting & Dev Tools**
+<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
 ### 🚀 Featured Projects & Research
 
-- **[Solar Energy Utilization for Water Tourism](<!-- INSERT_REPO_OR_PAPER_LINK -->)** — Research paper presented at the 18th AVoER National Seminar on implementing solar PV systems in Tanjung Pinang II Village, Ogan Ilir.
-- **[Nathan Game Palembang Web Catalog](<!-- INSERT_REPO_LINK -->)** — Web-based game catalog and inventory showcase built for a local PlayStation 4 game service.
-- **[Interactive Hand-Tracking Filter](<!-- INSERT_REPO_LINK -->)** — Computer vision experiment utilizing real-time hand-tracking gestures.
+| Project / Publication | Description | Tech Stack / Focus |
+| :--- | :--- | :--- |
+| **[Nathan Game Palembang Web Catalog](https://masvoorii.github.io)** | Live web-based game catalog, storage estimator, and inventory showcase built for a local PlayStation 4 game installation business. | `HTML/CSS` • `JavaScript` • `GitHub Pages` |
+| **Solar Energy Utilization for Water Tourism** | Peer-reviewed research paper (*ID 3584*) presented at the 18th AVoER National Seminar on implementing solar PV systems in Tanjung Pinang II Village, Ogan Ilir. | `Solar PV` • `Renewable Energy` • `System Design` |
+| **Interactive Hand-Tracking Filter** | Real-time computer vision gesture filter tailored for left-handed dominant tracking and low-latency camera feedback. | `Python` • `Computer Vision` • `Hand Tracking` |
+| **ESP32 Sensor & Automation Prototypes** | Collection of microcontroller experiments integrating ultrasonic distance sensors (`HC-SR04`), circuit simulations, and control logic. | `ESP32` • `C++` • `Wokwi` • `Sensors` |
+
+---
+
+### 🏛️ Leadership & Organizational Experience
+
+- **Student Executive Board of Universitas Sriwijaya (BEM UNSRI)** — *Expert Staff (Staf Ahli), Creative Economy Bureau*
+- **Student Executive Board of Faculty of Engineering (BEM FT UNSRI)** — *Executive Board Member (Badan Pengurus), Academic & Professionalism Department*
+- **Electrical Engineering Student Association (HME UNSRI)** — *Expert Staff (Staf Ahli), Institutional Relations Department*
+- **PKKMB FT & Electrical Engineering UNSRI** — *Student Coordinator & Group Mentor (Kakak Gugus)* for freshman orientation
+- **High School Robotics Club** — *President (Ketua Umum)*, leading microcontroller workshops and robotics competitions
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=masvoorii&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="masvoorii's GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masvoorii&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+</div>
 
 ---
 
 ### ⚡ Fun Facts & Beyond Code
 
-- 🤖 Former President of my high school Robotics Club—where my obsession with microcontrollers and sensors began.
-- 🎮 I run a local PS4 game service on the side while juggling lab assistant duties and campus student organizations.
-- ✍️ Left-handed maker who enjoys troubleshooting hardware setups and optimizing storage workflows.
-
----
-
-### 📫 Get in Touch
-
-Feel free to reach out for collaborations on embedded systems, automation projects, or web development:
-
-[![Email](https://img.shields.io/badge/Email-fachrips2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fachrips2007@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40fahrifran-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fahrifran)
+- 🎮 **Entrepreneur on the Side:** Founder & operator of *Nathan Game Palembang*, managing multi-terabyte game libraries and console setups alongside engineering coursework.
+- ✍️ **Left-Handed Maker:** Southpaw engineer who loves optimizing hardware enclosures, multi-drive storage setups, and clean desk workflows.
+- 🤖 **Robotics Roots:** Started tinkering with sensors and logic gates in high school before diving deep into industrial PLCs and control systems.
