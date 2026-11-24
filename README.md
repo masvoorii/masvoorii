@@ -26,7 +26,7 @@ I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate
   - **Teaching Assistant** — Basic Computer Programming (*Dasar Komputer & Pemrograman*) & Basic Information Systems (*Dasar Sistem Informasi*)
   - **Guest Instructor** — Taught 10th-grade *Coding & Artificial Intelligence (KKA)* as an alumnus mentor
 - 🏆 **Achievements & Publications:**
-  - **1st Place Winner** — Line Follower Robot Competition, Universal Competition of Mandupa / UNICOM MANDUPA (MAN 2 Palembang, October 2023)
+  - **1st Place Winner** — Line Follower Competition, Universal Competition of Mandupa / UNICOM MANDUPA (MAN 2 Palembang, October 2023)
   - **2nd Place Winner** — Line Follower Robot Competition, Sumatera Robotic Competition by Indonesia Youth Robot Association (March 2023)
   - **Presenter & Author** — 18th AVoER National Seminar (Universitas Sriwijaya)
 
@@ -41,7 +41,7 @@ I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Schneider PLC](https://img.shields.io/badge/Schneider_M221_PLC-3DCD58?style=for-the-badge&logo=schneiderelectric&logoColor=white)
-![Machine Expert Basic](https://img.shields.io/badge/Machine_Expert_Basic-0F172A?style=for-the-badge)
+![Machine Expert Basic](https://img.shields.io/badge/Machine_Expert_Basic-1E293B?style=for-the-badge)
 ![Wokwi](https://img.shields.io/badge/Wokwi-1E293B?style=for-the-badge)
 
 **Languages, Vision & Core Tools**
@@ -49,7 +49,7 @@ I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-1E293B?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -67,14 +67,11 @@ I'm **Fachri Pranedya**, a 5th-semester **Electrical Engineering** undergraduate
 | **[Real-Time Hand & Face AR Filter](https://github.com/masvoorii/hand-tracking-filter)** | Multi-threaded 60 FPS computer vision AR app combining symmetric hand gestures, facial blendshapes, and live camera filters. | `Python` • `OpenCV` • `MediaPipe` |
 | **[ESP32 Fire Detection System](https://wokwi.com/projects/474599173266592769)** | Interactive IoT fire and smoke early-warning simulation with Telegram alerts, built as a commissioned hardware prototype. | `ESP32` • `C++` • `IoT/Telegram` • `Wokwi` |
 | **[ESP32 Smart LPG Scale](https://wokwi.com/projects/465914681150674945)** | Smart gas cylinder weight monitoring prototype using an HX711 load cell amplifier, LCD readout, and low-level buzzer alarm. | `ESP32` • `C++` • `HX711 Load Cell` • `Wokwi` |
-| **[ESP32 Smart Pet Feeder](https://wokwi.com/projects/465543785590711297)** | Automated scheduled feeding system utilizing NTP network time synchronization and precision stepper motor actuation. | `ESP32` • `C++` • `NTP` • `Stepper Motor` |
-| **[Arduino Dynamic Traffic Controller](https://wokwi.com/projects/465538739133536257)** | Adaptive multi-lane traffic light control system featuring real-time countdown timers on TM1637 7-segment and I2C LCD displays. | `Arduino` • `C++` • `TM1637` • `Control Logic` |
 | **[Automated Conveyor Item Counter](https://wokwi.com/projects/463230913591344129)** | Automated object counting and conveyor control simulation developed for a 4th-semester major coursework project. | `Arduino` • `C++` • `Sensors` • `Control Logic` |
-| **KRAI 2027 Robotics Prototype** | Ongoing Robotics coursework project designing control logic and system architecture for KRAI 2027 specifications. | `ROS 2` • `Python/C++` • `Robotics` |
 | **[Nathan Game Palembang Web Catalog](https://masvoorii.github.io)** | Live web-based digital catalog, automated storage capacity estimator, and inventory interface. | `HTML/CSS` • `JavaScript` • `GitHub Pages` |
 | **Solar Energy Utilization for Water Tourism** | Research paper (*ID 3584*) presented at the 18th AVoER National Seminar on implementing solar PV systems in Tanjung Pinang II Village, Ogan Ilir. | `Solar PV` • `Renewable Energy` • `System Design` |
 
-> 🔧 *Explore more microcontroller and circuit simulations on my **[Wokwi Maker Profile](https://wokwi.com/makers/masvoorii)**.*
+> 🔧 *Explore more simulations (including Smart Pet Feeder & Dynamic Traffic Controller) on my **[Wokwi Maker Profile](https://wokwi.com/makers/masvoorii)**.*
 
 ---
 
